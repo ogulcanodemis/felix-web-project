@@ -118,7 +118,7 @@ composer dump-autoload
 Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
-FELIX Schlüsseldienst  
-📞 Telefon: +49 176 23513191  
-📧 E-posta: [e-posta-adresi]  
-🌐 Website: https://felixschlusseldienst.de 
+Oğulcan İzzet Ödemiş  
+📞 Telefon: +90 544 488 2303  
+📧 E-posta: ogulcan.odemis28@gmail.com  
+🌐 Website: linkedin.com/in/ogulcanodemiss
