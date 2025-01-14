@@ -70,6 +70,23 @@ php artisan migrate
 - Gzip sıkıştırma
 - CDN kullanımı
 
+## Sitemap
+Sitemap, arama motorlarının web sitesinin yapısını daha iyi anlamasını sağlar. Sitemap dosyası aşağıdaki yolda bulunur:
+```
+public/sitemap.xml
+```
+
+Sitemap şu özellikleri içerir:
+- Tüm dillerdeki sayfalar (DE, EN, TR)
+- Her sayfa için son güncelleme tarihi
+- Sayfa öncelikleri
+- Değişim sıklığı bilgisi
+
+Sitemap'i manuel olarak güncellemek için:
+```bash
+php artisan sitemap:generate
+```
+
 ## Güvenlik
 - CSRF koruması
 - XSS önleme
